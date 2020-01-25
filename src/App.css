@@ -1,38 +1,46 @@
-.App {
+*{
+  font-family: sans-serif;
+}
+h1{
   text-align: center;
+  font-size: 25px !important;
+  border-bottom: 1px solid lightgrey;
+  padding: 5px;
+  margin-bottom: 20px !important;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p{
+  font-size: 14px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.eachBreed{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 33px;
 }
-
-.App-link {
-  color: #61dafb;
+h4{
+  margin: 0;
+  display: inline-block;
+  font-size: 25px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.contentOfEachBreed{
+  margin-left: 30px;
+}
+.breedName{
+  color: royalblue;
+  margin-bottom: 0px !important;
+}
+.subBreedName{
+  margin-top: 0px;
+}
+.user{
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+}
+.eachImage img{
+  height: 135px ;
+  width: 135px;
+}
+img.userImage{
+  border-radius: 50px;
+  height: 40px;
+  width: 40px;
 }
