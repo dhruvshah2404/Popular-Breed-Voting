@@ -7,9 +7,7 @@ import React from "react";
 //       EachImage(data)
 //     }))
 // }
-function EachImage(props) {
-  console.log(props.image);
-  
+function EachImage(props) {  
   return (
     <div className="eachImage">
       <img

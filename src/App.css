@@ -39,8 +39,16 @@ h4{
   height: 135px ;
   width: 135px;
 }
+
 img.userImage{
   border-radius: 50px;
   height: 40px;
   width: 40px;
+}
+button{
+  background-color: white;
+  border: 0;
+}
+button:hover{
+  cursor: pointer;
 }
