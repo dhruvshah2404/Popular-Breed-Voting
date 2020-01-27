@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "breedName": "Pug",
+    "votes":10,
+    "subBreedName": "None",
+    "dogImage": "http://cdn.shopify.com/s/files/1/0839/5903/products/978154920860_grande.jpg?v=1571477958",
+    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+  },
+  {
+    "id": 2,
+    "breedName": "Husky",
+    "votes":5,
+    "subBreedName": "Siberan-Husky",
+    "dogImage": "https://images-na.ssl-images-amazon.com/images/I/71nOmUnBckL.jpg",
+    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+  },
+  {
+    "id": 3,
+    "breedName": "Bichon",
+    "votes":5,
+    "subBreedName": "Bichon-Frise",
+    "dogImage": "https://www.calendars.com/img/p/orig/202000004236.jpg",
+    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+  },
+  {
+    "id": 4,
+    "breedName": "Golden-Retriever",
+    "votes":4,
+    "subBreedName": "None",
+    "dogImage": "https://i.pinimg.com/564x/72/6b/20/726b20881cb09957ffbbe50d96b0d563.jpg",
+    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+  }
+]

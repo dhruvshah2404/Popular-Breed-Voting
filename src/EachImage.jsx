@@ -8,10 +8,12 @@ import React from "react";
 //     }))
 // }
 function EachImage(props) {
+  console.log(props.image);
+  
   return (
     <div className="eachImage">
       <img
-        src="https://images.fineartamerica.com/images-medium-large-5/square-pug-banner-art.jpg"
+        src={props.image}
         alt="BreedImage"
       ></img>
     </div>

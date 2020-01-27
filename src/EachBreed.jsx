@@ -8,12 +8,21 @@ class EachBreed extends Component {
     this.state = {  }
   }
   render() { 
+    console.log(this.props.items);
     return ( 
       <React.Fragment>
-        <div className="eachBreed">
-        <EachImage />
-        <ContentOfEachBreed/>
-      </div>
+        {/* <div className="eachBreed"> */}
+        {this.props.items.map(item => {
+          return (
+            <div className="eachBreed" key={item.id}>
+              <EachImage image={item.dogImage} />
+              <ContentOfEachBreed content={item}/>
+              </div>
+            )
+           }
+           )}
+        {/* <EachImage image={this.props.items[0]}/> */}
+      {/* </div> */}
       </React.Fragment>
      );
   }
