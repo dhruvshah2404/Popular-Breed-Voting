@@ -4,31 +4,35 @@
     "breedName": "Pug",
     "votes": 0,
     "subBreedName": "None",
+    "info": "https://dogtime.com/dog-breeds/pug#/slide/1",
     "dogImage": "http://cdn.shopify.com/s/files/1/0839/5903/products/978154920860_grande.jpg?v=1571477958",
-    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+    "userImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
   },
   {
     "id": 2,
     "breedName": "Husky",
     "votes": 0,
     "subBreedName": "Siberan-Husky",
+    "info": "https://dogtime.com/dog-breeds/siberian-husky#/slide/1",
     "dogImage": "https://images-na.ssl-images-amazon.com/images/I/71nOmUnBckL.jpg",
-    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+    "userImage": "http://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/0/1/0132_190824_mp4otl_y_3.jpg"
   },
   {
     "id": 3,
     "breedName": "Bichon",
     "votes": 0,
     "subBreedName": "Bichon-Frise",
+    "info":"https://dogtime.com/dog-breeds/bichon-frise#/slide/1",
     "dogImage": "https://www.calendars.com/img/p/orig/202000004236.jpg",
-    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+    "userImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
   },
   {
     "id": 4,
     "breedName": "Golden-Retriever",
     "votes": 0,
     "subBreedName": "None",
+    "info":"https://dogtime.com/dog-breeds/golden-retriever#/slide/1",
     "dogImage": "https://i.pinimg.com/564x/72/6b/20/726b20881cb09957ffbbe50d96b0d563.jpg",
-    "UserImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
+    "userImage": "https://i.pinimg.com/originals/32/be/bb/32bebb917ab933c5ba4ee7832f3036a0.jpg"
   }
 ]

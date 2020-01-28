@@ -1,12 +1,22 @@
 *{
   font-family: sans-serif;
 }
+body{
+  margin: 0;
+}
+main{
+  background-color: #f2d2ef;
+}
+
 h1{
   text-align: center;
   font-size: 25px !important;
-  border-bottom: 1px solid lightgrey;
-  padding: 5px;
+  border-bottom: 1px solid #7E57C2;
+  padding: 15px;
   margin-bottom: 20px !important;
+  color: #7E57C2;
+    margin-top: 0;
+
 }
 p{
   font-size: 14px;
@@ -14,7 +24,10 @@ p{
 .eachBreed{
   display: flex;
   margin: 33px;
+  background-color: #feedff;
+  color: #4A148C;
 }
+
 h4{
   margin: 0;
   display: inline-block;
@@ -46,9 +59,13 @@ img.userImage{
   width: 40px;
 }
 button{
-  background-color: white;
+  background-color: #feedff;
   border: 0;
 }
 button:hover{
   cursor: pointer;
+}
+.fa-arrow-up:before {
+  content: "\f062";
+  font-size: 20px;
 }

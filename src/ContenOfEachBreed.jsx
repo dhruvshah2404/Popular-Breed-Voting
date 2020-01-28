@@ -13,9 +13,9 @@ class ContentOfEachBreed extends Component {
           <i className="fas fa-arrow-up"></i>
         </button>
         <h4 className="votes">{this.props.content.votes}</h4>
-        <p className="breedName">{this.props.content.breedName}</p>
+        <p className="breedName"><a href={this.props.content.info} target="_blank">{this.props.content.breedName}</a></p>
         <p className="subBreedName">{this.props.content.subBreedName}</p>
-        <User />
+        <User url={this.props.content}/>
       </div>
     );
   }
