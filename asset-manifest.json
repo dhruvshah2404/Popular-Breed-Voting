@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Popular-Breed-Voting/static/css/main.db03834f.chunk.css",
+    "main.js": "/Popular-Breed-Voting/static/js/main.5e925895.chunk.js",
+    "main.js.map": "/Popular-Breed-Voting/static/js/main.5e925895.chunk.js.map",
+    "runtime-main.js": "/Popular-Breed-Voting/static/js/runtime-main.9999d35c.js",
+    "runtime-main.js.map": "/Popular-Breed-Voting/static/js/runtime-main.9999d35c.js.map",
+    "static/js/2.d5f2afb0.chunk.js": "/Popular-Breed-Voting/static/js/2.d5f2afb0.chunk.js",
+    "static/js/2.d5f2afb0.chunk.js.map": "/Popular-Breed-Voting/static/js/2.d5f2afb0.chunk.js.map",
+    "index.html": "/Popular-Breed-Voting/index.html",
+    "precache-manifest.96e374893c37d705140fa6d2acd06374.js": "/Popular-Breed-Voting/precache-manifest.96e374893c37d705140fa6d2acd06374.js",
+    "service-worker.js": "/Popular-Breed-Voting/service-worker.js",
+    "static/css/main.db03834f.chunk.css.map": "/Popular-Breed-Voting/static/css/main.db03834f.chunk.css.map",
+    "static/js/2.d5f2afb0.chunk.js.LICENSE": "/Popular-Breed-Voting/static/js/2.d5f2afb0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9999d35c.js",
+    "static/js/2.d5f2afb0.chunk.js",
+    "static/css/main.db03834f.chunk.css",
+    "static/js/main.5e925895.chunk.js"
+  ]
+}
